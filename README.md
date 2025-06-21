@@ -1,4 +1,4 @@
-# 🚀 100 Days, 100 Projects: My Web3, Blockchain, Backend, and AI/ML
+# 🚀 100 Days, 100 Projects: Web3, Blockchain, Backend, and AI/ML
 
 Welcome to my **100 Days, 100 Projects** challenge!
 
